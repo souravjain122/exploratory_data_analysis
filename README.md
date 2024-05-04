@@ -3,7 +3,8 @@
 This repository contains Jupyter notebooks, datasets, and scripts related to Exploratory Data Analysis (EDA). EDA is a key process in data science, focusing on exploring, visualizing, and analyzing data to gain insights.
 
 ## Repository Contents
-- [Airline Analysis](./Airline%20Analysis): A detailed EDA on a hypothetical Airline's data
+- [Airline Analysis](./Airline%20Analysis): A detailed EDA on a fictional Airline's data
+- [Biodiversity](./Biodiversity): A detailed EDA on Biodiversity Data from a fictional National Parks Service data
 
 ## Installation Instructions
 To run the code and notebooks in this repository, you need to install the required Python packages. 
