@@ -7,12 +7,13 @@ This repository contains Jupyter notebooks, datasets, and scripts related to Exp
 - [Biodiversity](./Biodiversity): A detailed EDA on Biodiversity Data from a fictional National Parks Service data
 - [Chocolate Scrapping](./Chocolate%20Scrapping): Along with the EDA on Chocolate Rating data this Project also focuses on **WebScrapping**
 - [Kiva](./Kiva): This project focuses on **Analysis through Visualization** part for Loans amount awarded by Non Profit Organisation [kiva.org](https://www.kiva.org/). This data was collected from [Kaggle](https://www.kaggle.com/datasets/fkosmowski/kivadhsv1)
+- [Netflix Visualizations](./Netflix%20Visualizations): This EDA also focuses on **Analysis through Visualizations**
 
 ## Installation Instructions
 To run the code and notebooks in this repository, you need to install the required Python packages. 
   1. Navigate to the project folder:
      ```bash
-     cd "Airline Analysis"  # Or the desired project folder
+     cd "Project Name"  # Or the desired project folder
      ```
   2. Install dependencies:
      ```bash
