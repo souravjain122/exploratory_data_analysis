@@ -3,26 +3,25 @@
 This repository contains Jupyter notebooks, datasets, and scripts related to Exploratory Data Analysis (EDA). EDA is a key process in data science, focusing on exploring, visualizing, and analyzing data to gain insights.
 
 ## Repository Contents
-- **Jupyter Notebooks**
-  - Detailed exploratory analyses on various datasets
-  - Data cleaning and transformation steps
-- **Datasets**
-  - Sample data in CSV format
-- **Scripts**
-  - Python scripts for data preprocessing and visualization
-- **Outputs**
-  - Generated plots and charts
+- [Airline Analysis](./Airline%20Analysis): A detailed EDA on a hypothetical Airline's data
 
+## Installation Instructions
+To run the code and notebooks in this repository, you need to install the required Python packages. 
+  1. Navigate to the project folder:
+     ```bash
+     cd "Airline Analysis"  # Or the desired project folder
+     ```
+  2. Install dependencies:
+     ```bash
+     pip install -r requirements.txt
+     ```
 ## Getting Started
-To use this repository:
-1. Clone the repository to your local machine with:
-   ```bash
-   git clone https://github.com/souravjain122/exploratory_data_analysis.git
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-4. Open the Jupyter notebooks to explore the analyses.
+Once you've installed the required dependencies, you can open Jupyter notebooks or run scripts as needed.
 
+To start Jupyter Notebook:
+```bash
+jupyter notebook
+```
 ## Key Techniques Demonstrated
 - Data cleaning and transformation
 - Statistical analysis and feature engineering
