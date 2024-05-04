@@ -5,6 +5,7 @@ This repository contains Jupyter notebooks, datasets, and scripts related to Exp
 ## Repository Contents
 - [Airline Analysis](./Airline%20Analysis): A detailed EDA on a fictional Airline's data
 - [Biodiversity](./Biodiversity): A detailed EDA on Biodiversity Data from a fictional National Parks Service data
+- [Chocolate Scrapping](./Chocolate%20Scrapping): Along with the EDA on Chocolate Rating data this Project also focuses on **WebScrapping**
 
 ## Installation Instructions
 To run the code and notebooks in this repository, you need to install the required Python packages. 
